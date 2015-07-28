@@ -1,0 +1,21 @@
+$
+
+#
+
+sudo : root권한으로 수행.
+
+tcpdump : 
+
+rawsocket : 
+
+recommended books : UNIX NETWORK PRGRAMMING  -W.RICHARD STEVE-
+
+TCP HEADER : 
+
+데이터 전달방식
+	1. 상대방이 전달 받는지 확인 후 전송.[신뢰성이 요구되는 서비스]
+	2. 상대방이 전발 받던 말던 전송.
+
+	:
+
+
